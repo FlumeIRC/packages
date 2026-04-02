@@ -1,0 +1,6 @@
+[flume]
+name=Flume IRC Client
+baseurl=https://pkg.flumeirc.io/rpm/
+enabled=1
+gpgcheck=1
+gpgkey=https://pkg.flumeirc.io/gpg/flume-signing-key.asc
