@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: FlumeIRC
+Label: FlumeIRC
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Flume IRC client packages
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEaW4xxmGs8OuM9TTcJ6PPeeDmQKkFAmnOuq0ACgkQJ6PPeeDm
+QKmWiBAA2E2Xqx27DcHWno0NpX9oaO8RqM2UWRTa5iBJvcy07LHfs2VUlCd3AEw7
+jg0wbZm+IxRMPmdoudnq1qgHJ1jykBqLf4hhuc+uZensjFaPa+/TR9cyvUHGafLi
+IMsW/3KDUOqdEf1AFqXatKtniHX8PhKAglCo2GcI7ImM2wBAx5eg2NWGnVHMW1uv
+rd6jS3s2YZcmd70w+AsHfmMPiuS+DXFMNm0DytVoPab2+eqZYFCSk2bM0hoMoUg0
+Xdnhws/c9wq/neLHj3ooAjUDeMBxRbiS/Wr1iPYWhp16PAW8LqDhB5R5Bwngr9ae
+txtfbmdZ9ykj3F/JdQkpmTHS5gbIq5ZPEkjJbKFMaz1WsrRpNTW3AamIVOqMxv9B
+YZP/8obYHYhzw9dgbd4JToVLZrJLD44OpQiPP9kZVduZ7nBcOjP/jZ6tFM94l/kV
+WeFrAlUJFkQUQ0VgRk41JtwzG1adpiVPcglVOyIYp6YU7+4BW+RiYWu4BeGBZXsJ
+ouPjkVt/VZ56gdVHFbVA0uaENJ4uGc9dw/DXUr+RhiF7gWaj00Vn20GWxetG5Wi4
+TVNSuxzMPGTfmk+hv86QriKzU7LHKBqCUJ9FluxdHrP/6PTssCWA/hjUZt2w2drw
+o1fF/m8GrUdzwuQzLjLThxSW4eot8Kfljyw2HSz0m/NQS9Uf5bI=
+=ngH/
+-----END PGP SIGNATURE-----
