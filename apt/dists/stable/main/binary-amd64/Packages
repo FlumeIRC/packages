@@ -1,13 +1,13 @@
 Package: flume
-Version: 1.2.3
-Architecture: amd64
+Version: 1.2.4
+Architecture: arm64
 Maintainer: Emilio A. Escobar <emilio@flumeirc.io>
-Installed-Size: 12923
-Filename: pool/main/flume_1.2.3_amd64.deb
-Size: 5002738
-MD5sum: bd5b87799e73236724d6accad1176a98
-SHA1: 7a9353f18b311e55b5863d23c6e79978aaf3fcec
-SHA256: 3c9f15825b8d379fbcefc2c486b65e3444391205137210a28ce0deb6b3acf5c8
+Installed-Size: 12061
+Filename: pool/main/flume_1.2.4_arm64.deb
+Size: 4899652
+MD5sum: a43af29a564760bc811644f975da4406
+SHA1: 77bbb49164c85846ce2c111594752f11246f8af9
+SHA256: 65da3a7158a3b00e26044e497e94eda2a4c61d7ca827e5a12c73e520c803152d
 Priority: optional
 Homepage: https://github.com/FlumeIRC/flume
 Description: Modern terminal IRC client
