@@ -2,6 +2,17 @@ Origin: FlumeIRC
 Label: FlumeIRC
 Suite: stable
 Codename: stable
+Date: Fri, 03 Apr 2026 23:28:58 +0000
 Architectures: amd64 arm64
 Components: main
 Description: Flume IRC client packages
+MD5Sum:
+ ee8842254c4d5af2e49fdcc3085610a2              464 main/binary-amd64/Packages
+ 4e4f45ce5cde8e3f5ccd484e7f1a0670              368 main/binary-amd64/Packages.gz
+ ee8842254c4d5af2e49fdcc3085610a2              464 main/binary-arm64/Packages
+ 4e4f45ce5cde8e3f5ccd484e7f1a0670              368 main/binary-arm64/Packages.gz
+SHA256:
+ 7c83a0d2dc8d7b24bd0cf94ce6550280f03850585325b0441ea60f1d9a0a2117              464 main/binary-amd64/Packages
+ 45ffb153732a08e439b8b531d813a2adc460344078f6244cf019cf588869863a              368 main/binary-amd64/Packages.gz
+ 7c83a0d2dc8d7b24bd0cf94ce6550280f03850585325b0441ea60f1d9a0a2117              464 main/binary-arm64/Packages
+ 45ffb153732a08e439b8b531d813a2adc460344078f6244cf019cf588869863a              368 main/binary-arm64/Packages.gz
