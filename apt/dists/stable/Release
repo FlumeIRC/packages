@@ -2,17 +2,17 @@ Origin: FlumeIRC
 Label: FlumeIRC
 Suite: stable
 Codename: stable
-Date: Mon, 06 Apr 2026 13:53:01 +0000
+Date: Tue, 07 Apr 2026 15:52:25 +0000
 Architectures: amd64 arm64
 Components: main
 Description: Flume IRC client packages
 MD5Sum:
- ab0ffdb63dee27aaf808be31f32825f0              481 main/binary-amd64/Packages
- a6bb6cfd59978ca1f050cd08326b0784              379 main/binary-amd64/Packages.gz
- ab0ffdb63dee27aaf808be31f32825f0              481 main/binary-arm64/Packages
- a6bb6cfd59978ca1f050cd08326b0784              379 main/binary-arm64/Packages.gz
+ 4266ec82a7958e9af04d4c670c7e4d18              481 main/binary-amd64/Packages
+ f75d549479f4446cf32ab2b533036124              380 main/binary-amd64/Packages.gz
+ 4266ec82a7958e9af04d4c670c7e4d18              481 main/binary-arm64/Packages
+ f75d549479f4446cf32ab2b533036124              380 main/binary-arm64/Packages.gz
 SHA256:
- 21578161b2b16074773bcb69211df445b9d19c8e1a8bc6e6323854bcc422c7dd              481 main/binary-amd64/Packages
- c24b6af8211d50793b19596b804600aac91b080afc77535a6633c6ca975a47bb              379 main/binary-amd64/Packages.gz
- 21578161b2b16074773bcb69211df445b9d19c8e1a8bc6e6323854bcc422c7dd              481 main/binary-arm64/Packages
- c24b6af8211d50793b19596b804600aac91b080afc77535a6633c6ca975a47bb              379 main/binary-arm64/Packages.gz
+ c61eab562207ed2a5985950b059d39896e86511c39e43eecd4e42348041f7d68              481 main/binary-amd64/Packages
+ 6fd677f755c4f8ed9db433bcb0af975375706d238322e225064a0ad00ea7103f              380 main/binary-amd64/Packages.gz
+ c61eab562207ed2a5985950b059d39896e86511c39e43eecd4e42348041f7d68              481 main/binary-arm64/Packages
+ 6fd677f755c4f8ed9db433bcb0af975375706d238322e225064a0ad00ea7103f              380 main/binary-arm64/Packages.gz
