@@ -5,33 +5,33 @@ Origin: FlumeIRC
 Label: FlumeIRC
 Suite: stable
 Codename: stable
-Date: Tue, 07 Apr 2026 15:52:25 +0000
+Date: Wed, 20 May 2026 01:09:35 +0000
 Architectures: amd64 arm64
 Components: main
 Description: Flume IRC client packages
 MD5Sum:
- 4266ec82a7958e9af04d4c670c7e4d18              481 main/binary-amd64/Packages
- f75d549479f4446cf32ab2b533036124              380 main/binary-amd64/Packages.gz
- 4266ec82a7958e9af04d4c670c7e4d18              481 main/binary-arm64/Packages
- f75d549479f4446cf32ab2b533036124              380 main/binary-arm64/Packages.gz
+ f6ba98428abaf1b8140f4eb770f5a48d              481 main/binary-amd64/Packages
+ 63da584850a21c2e0162076dc048e605              379 main/binary-amd64/Packages.gz
+ f6ba98428abaf1b8140f4eb770f5a48d              481 main/binary-arm64/Packages
+ 63da584850a21c2e0162076dc048e605              379 main/binary-arm64/Packages.gz
 SHA256:
- c61eab562207ed2a5985950b059d39896e86511c39e43eecd4e42348041f7d68              481 main/binary-amd64/Packages
- 6fd677f755c4f8ed9db433bcb0af975375706d238322e225064a0ad00ea7103f              380 main/binary-amd64/Packages.gz
- c61eab562207ed2a5985950b059d39896e86511c39e43eecd4e42348041f7d68              481 main/binary-arm64/Packages
- 6fd677f755c4f8ed9db433bcb0af975375706d238322e225064a0ad00ea7103f              380 main/binary-arm64/Packages.gz
+ 78f52125f683a757cea78c72ecf0ffd80b07bf195d59ec26ab8133c411f06af4              481 main/binary-amd64/Packages
+ 780f1316797eb3f38c68abfc984b93aa8a2313e092905b62869a4678f6a07271              379 main/binary-amd64/Packages.gz
+ 78f52125f683a757cea78c72ecf0ffd80b07bf195d59ec26ab8133c411f06af4              481 main/binary-arm64/Packages
+ 780f1316797eb3f38c68abfc984b93aa8a2313e092905b62869a4678f6a07271              379 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEaW4xxmGs8OuM9TTcJ6PPeeDmQKkFAmnVKDkACgkQJ6PPeeDm
-QKmqLBAAlk076daloGuN1Jq4BWf28xEj6Q7EoSLzibWLU7b8t6vh4gUIhUEZjP+a
-z161jH4DLl34d4PD5zi1CgfE5vFAsnRHdKHPrKp42pi5uajqZ0rvS7TDvwQ+OPP9
-7NpZD991PDoUG/2gH2lt2HRhZok3kvIHFiXeE9gPHkMH2x2aMHOFEOErPQk1qU2Y
-tlZ7FsM58xE28W/w59otCFT819titbNfc6Mg27lqbZHzrq74k8gOrahfwoCjN0Kw
-TxXSXZilN8PgnAhMF0tZ/AN4ZkSF4bmaASkUFhf6NJndsTMIGvnQ4y4HKjCt7zZL
-hAhIUXN3pC0g/vFsc90j3Oj5zpGCuW8/oW2xFENflSJiaMlan4GXJU5GSN5lXf7M
-WRqwKMG7Zfqz8T0n5d6jhN+Y3l0/czaki077GknrOsa15aoK7rAPxs9Ev4OpI20l
-K1qcwGHFNo9KM99ZznVz1Fij0Z+RP6uFKesyz4A1o9Kgy263KSWscNJr1+ZxUnP4
-sBCXKaGnarQZZxXLIN/fTgLbnIr94wQsXTlQeXilJkDB9D8ZSTW3MI4JHorLjxRD
-jzW6XHVr+VMWdqOfgQAXk8Oz/5ZZ0QGHzvExEl072q766Azry+nEyZAZMmeFxvHD
-fvfglTkFtNrFQikicJBZYOHihhDcbO95rsO/DgEmk5siON6bO90=
-=0NgD
+iQIzBAEBCgAdFiEEaW4xxmGs8OuM9TTcJ6PPeeDmQKkFAmoNCc8ACgkQJ6PPeeDm
+QKkBPhAAq9o0z3dQo7CNx+ML8Amfb/jlNMAPQjnzLMdzzU5ZJyWvh5ujrW1O5RuP
+ao2OaNEYGm4NtodnHU2qPIhCXSl5fbeOcMq2pMvsM5wrL4l3MXCt97mqyvDCqBdM
+T7XozLH0aIutVgTkIJLw7aM8pg+XlbxSO9bj6lcTkIj7i3KGGlLbZB8nsTZq1Cub
+ul9MM/M8IsK+M4T84flKOu2lTpDSLX0eHiFb1Je9khKFwsHxsldu04zhE7iuEiZe
+TqHJaA4lVJsUEwhr/5A/MFUu+7QVIO7lQ++sk4GXDbZHwSu3kbLIzUolRiisY6Sz
+JPbWFuPUFgv6xZ1gsCFu26dnKgeFrfIqH2VGcrOzHJGQgHr3k2JM58xOhgkviXu2
+jsc1FE54ojYhSqeiHWguJadxV5DW7eU2ij5QZKWI33UGYXD+pkOvKhHyW0FmngWH
+sLYMmUOesVuUcLf3ozuRAmWj4HyxfPnxzHGmGYvkfs+WrkUHBjnZH7xDMJXXufWl
+vxbyUu5dbZ4bJSjXYtZLMk/Sfvru9gNRAtHYs43r3xF0q10kJ/bDTuuFEE+OM8ah
+B4gX3UIC1/lTioAplsn4dHtLawOU1mRmYAqTWa0IoLAZaIYBKNIREJ6SqyX/wypM
+VIURGnamfkh/ovvBU1kXjYn1s4DchHpCv2lcyl5e5dpMqz2qBM4=
+=ddxd
 -----END PGP SIGNATURE-----
